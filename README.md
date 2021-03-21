@@ -13,3 +13,7 @@ Döküman İçeriği;
 * Hipotez Testleri
 * Varyans Analizi
 * Korelasyon Analizi
+
+Yararlanılan Kaynaklar;
+
+* https://www.udemy.com/course/veri-bilimi-icin-istatistik-python-ile-istatistik/
