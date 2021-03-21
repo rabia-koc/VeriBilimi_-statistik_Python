@@ -1,7 +1,7 @@
 # VeriBilimi_-statistik_Python
 
                    
-
+ ![imagesec](https://user-images.githubusercontent.com/73841520/111922288-018ca500-8aaa-11eb-9f8d-7171882510ec.jpg)
 Döküman İçeriği;
 * Veri Okuryazarlığına Giriş ve Temel Kavramlar
 * Merkezi Eğilim Ölçüleri
